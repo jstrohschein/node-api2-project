@@ -209,3 +209,4 @@ Create a new React application and connect it to your server:
 Follow these steps for completing your project.
 
 - [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+
